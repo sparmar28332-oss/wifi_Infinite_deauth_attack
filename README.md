@@ -2,8 +2,7 @@
 <img width="1920" height="1080" alt="Screenshot_2026-01-11_18_22_23" src="https://github.com/user-attachments/assets/c3ce457d-5b98-4686-86f0-ee030bbac76c" />
 <img width="1920" height="1080" alt="Screenshot_2026-01-11_18_22_31" src="https://github.com/user-attachments/assets/7289ed01-7ac7-4709-b7b9-390d945b96e6" />
 
-
-Automated Wi‑Fi Deauthentication Tool
+Automated All Wi‑Fi Deauthentication Tool
 
 Author: Mandeep
 
