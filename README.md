@@ -1,4 +1,8 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8430c2-9966-4c14-a04e-e3b627cdbe7e" /># wifi_Infinite_deauth_attack
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a08d4356-ca0a-4b9d-af06-835da175ef13" />
+<img width="1920" height="1080" alt="Screenshot_2026-01-11_18_22_23" src="https://github.com/user-attachments/assets/c3ce457d-5b98-4686-86f0-ee030bbac76c" />
+<img width="1920" height="1080" alt="Screenshot_2026-01-11_18_22_31" src="https://github.com/user-attachments/assets/7289ed01-7ac7-4709-b7b9-390d945b96e6" />
+
+
 Automated Wi‑Fi Deauthentication Tool
 
 Author: Mandeep
@@ -26,6 +30,6 @@ In this phase, the tool performs automated deauthentication testing by sending d
 Ethical and Legal Notice
 
 This tool is developed strictly for educational, research, and authorized penetration testing purposes. Testing wireless networks without explicit permission is illegal and unethical. Always comply with applicable laws and ethical guidelines.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8a97ee5-1e7b-42fa-b239-9ca0f3f3c63b" />
+
 
 
